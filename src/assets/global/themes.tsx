@@ -1,9 +1,12 @@
 export const theme = {
   colors: {
-    primary: "#878af6",
-    secondary: "#ffffff",
-    lightGray: "#d7d8d7",
-    gray: "gray",
-    bgScreen: "#f1f7fa",
+    primary: "#34C759",       // verde do botão "Entrar"
+    secondary: "#ffffff",     // branco (background e textos sobre fundo escuro)
+    black: "#000000",         // botão "Criar conta"
+    border: "#dddddd",        // bordas de inputs e linhas
+    textPrimary: "#000000",   // textos principais
+    textSecondary: "#555555", // textos secundários (descrições, rodapé)
+    buttonText: "#ffffff",    // texto de botões
+    background: "#ffffff",    // fundo geral
   },
 };
